@@ -1,0 +1,16 @@
+{
+  "document_type": "ticket",
+  "dates": [
+    {
+      "date": "19 AUG 2025",
+      "time": "11:30"
+    }
+  ],
+  "locations": [
+    {
+      "from": "LONDON",
+      "to": "SHANGHAI"
+    }
+  ],
+  "summary": "Ticket from JOHN DOE"
+}

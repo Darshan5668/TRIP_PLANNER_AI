@@ -1,0 +1,11 @@
+{
+    "ocr": false,
+    "vision": false,
+    "trip_planner": true,
+    "inputs": {
+        "text": "i need a 5 day plan in indian and include thaj mahal to my trip",
+        "document_type": null,
+        "document_path": null,
+        "image_path": null
+    }
+}
